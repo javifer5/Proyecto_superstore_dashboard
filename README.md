@@ -1,6 +1,6 @@
 # 🛒 Superstore USA — Limpieza de datos y Dashboard de Ventas 2023–2026
 
-[![Ver el archivo](https://img.shields.io/badge/Ver%20el%20archivo-Excel%20%2F%20Google%20Sheets-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](datos/Sales_Dashboard_Project.xlsx)
+[![Ver el archivo](https://docs.google.com/spreadsheets/d/1_evrvef6zvOZVNkmSKL4BqS9FcP8eTT-/edit?usp=sharing&ouid=114113414953023387219&rtpof=true&sd=true)](datos/Sales_Dashboard_Project.xlsx)
 
 Proyecto de análisis de datos en hojas de cálculo: se parte de un dataset comercial con errores reales (fechas rotas, IDs inconsistentes, códigos postales incompletos), se limpia con un registro de cada decisión y se construye un dashboard con KPIs, gráficos e insights de negocio.
 
