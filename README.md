@@ -104,5 +104,5 @@ Hojas del archivo Excel:
 
 **Fernando Javier Acosta** — Proyecto de portfolio en análisis de datos
 
-- LinkedIn: _agregá tu enlace aquí_
-- Email: _agregá tu correo aquí_
+- LinkedIn: https://www.linkedin.com/in/fernando-javier-acosta-153423289/
+- Email: javierfer55555gmail.com
